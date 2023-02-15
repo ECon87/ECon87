@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ECon87
-- 👀 I’m interested in Economics, Political and NLP
-- 🌱 I’m currently learning NLP and MLE
+- 👀 I’m interested in Economics (IO and Political Economy) and NLP
+- 🌱 I’m currently learning more about NLP, MLE and development of TUI apps
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
